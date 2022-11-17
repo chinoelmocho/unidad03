@@ -14,9 +14,7 @@ import javax.swing.JFrame;
 public class Unidad03 {
 
     public static void main(String[] args) {
-        var ventana1=new Ventana01("Multicolor");
-        ventana1.iniciarComponentes();
-        ventana1.setVisible(true);
+        var ventana1=new VENTANA02();
         
     }
 }
